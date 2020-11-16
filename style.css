@@ -3,12 +3,15 @@
     float:right;
     margin:5px;}
 
+.headings{text-align: center;}
+
 #para-1{text-align:justify;}
 
 #nav-bar{width:200px;
     height:600px;
     float:left;
-    margin-right:25px;}
+    margin-right:25px;
+    position:sticky;}
 
 table {height:100%;
     text-align: center;}
