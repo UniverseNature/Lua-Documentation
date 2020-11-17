@@ -7,11 +7,28 @@
 
 #para-1{text-align:justify;}
 
+#para-2{position:relative;
+    left:50px;}
+
+#para-3{position:relative;
+    right:70px;}
+    
+.buggy-listed-item{position:relative;
+    left:195px;}
+
+#buggy-item{position:relative;}
+
 #nav-bar{width:200px;
     height:600px;
     float:left;
+    margin-left:10px;
     margin-right:25px;
+    margin-bottom:15px;
     position:sticky;}
+
+ol, li{list-style-position: inside;}
+
+#cons{float:right;}
 
 table {height:100%;
     text-align: center;}
@@ -26,3 +43,10 @@ th, td {padding:10px;}
 
 table, th, td {border: 1px solid black;
     width:210px;}
+
+footer{background-color:darkcyan;
+    color:lightgray;
+    padding:20px;
+    padding-left:140px;}
+
+footer span {text-decoration:line-through;}
