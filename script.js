@@ -1,1 +1,1 @@
-alert("Make sure your zoom level is 100%, or else the page will not show as intended. There might be bugs in the \"Cons\" section, but I am working to fix them.");
+alert("Make sure your zoom level is 100%, or else the page will not show as intended.");
